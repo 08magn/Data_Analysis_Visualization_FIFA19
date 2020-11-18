@@ -1,0 +1,2 @@
+# Data_Analysis_Visualization_FIFA19-
+nformações sobre o conjunto de dados FIFA 19  Este conjunto de dados possui várias características diferentes para mais de 18.000 jogadores. As características incluem: nome do jogador, clube associado, idade, peso, classificação geral, classificação potencial etc., além de várias características específicas do jogador relacionadas a salário, valor de mercado, habilidade, posição de jogo, movimento, poder e mentalidade.
